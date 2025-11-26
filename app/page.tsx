@@ -13,16 +13,16 @@ export default function Home() {
 
       <main className="flex flex-col items-center justify-center">
         <h1
-          className="text-cyan-400 font-bold"
+          className="text-cyan-400 font-bold text-xl"
           style={{ fontFamily: "Comic Sans MS, cursive" }}
         >
           you ship: any project you want!
         </h1>
         <h1
-          className="text-green-400 font-bold"
+          className="text-green-400 font-bold text-xl"
           style={{ fontFamily: "Comic Sans MS, cursive" }}
         >
-          we ship: fudge!
+          we ship: fudge from the shelburne country store! right next to hack club hq!
         </h1>
 
         {/* --- FIXED: responsive offsets for mobile --- */}
