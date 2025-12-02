@@ -40,7 +40,7 @@ export default function Home() {
           />
         </div>
 
-        <div className="relative flex flex-col items-center">
+        <a href="https://forms.hackclub.com/fudge" className="relative flex flex-col items-center cursor-pointer">
           <img
             src="/chocolate.png"
             alt="submit button"
@@ -50,9 +50,9 @@ export default function Home() {
             className="absolute -ml-12 mt-4 inset-0 flex items-center justify-center text-white font-bold text-xl z-10"
             style={{ fontFamily: "Comic Sans MS, cursive", transform: "rotate(-7deg)" }}
           >
-            Hello
+            Hello 
           </p>
-        </div>
+        </a>
 
         <div>
           <h1
