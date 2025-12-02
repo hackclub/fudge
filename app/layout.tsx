@@ -10,11 +10,7 @@ export const metadata: Metadata = {
   title: "Fudge Fudge Fudge",
   description: "a hack club ysws",
   icons: {
-    icon: [
-      { url: '/kiss.png' },
-      { url: '/kiss.png', sizes: '32x32', type: 'image/png' },
-    ],
-    shortcut: '/kiss.png',
+    icon: '/favicon.ico',
   },
 };
 
