@@ -96,7 +96,7 @@ export default function Home() {
 
             <div className="flex flex-col md:pl-60 pt-4 md:pt-20">
               <p>Work for 3 hours ---&gt; Half a pound of FUDGEr</p>
-              <p>Work for 5 hours ---&gt; FULL pound of FUDGE!!D</p>
+              <p>Work for 6 hours ---&gt; FULL pound of FUDGE!!D</p>
 
               <div className="relative">
                 <img src="/country-store.png" alt="country store" className="w-200 h-auto mt-4" />
