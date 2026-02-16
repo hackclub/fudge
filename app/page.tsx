@@ -117,7 +117,7 @@ export default function Home() {
         </div>
         
       </main>
-         <span className="hidden lg:block text-gray-600 text-sm mt-8 absolute right-[-2000px] whitespace-nowrap" style={{ fontFamily: 'Comic Sans MS, cursive' }}>wow, you scrolled all this way? kinda cringe ngl</span>
+         <span className="hidden lg:block text-gray-600 text-sm mt-8 absolute -right-500 whitespace-nowrap" style={{ fontFamily: 'Comic Sans MS, cursive' }}>wow, you scrolled all this way? kinda cringe ngl</span>
     </div>
   );
 }
